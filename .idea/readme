@@ -1,0 +1,23 @@
+python data types :
+
+fundametal data types
+1. str
+2. int
+3. float
+4. bool
+5. list
+6. tuple
+7. set
+8. dict
+9. complex
+
+speacial data types :
+1. None
+
+
+
+python practices :
+
+1. use snake_case
+2. start the varible name either with a lower case letter or "_"
+3. better to name the constats in capitol as they defone its static nature , ex PI = 3.14
