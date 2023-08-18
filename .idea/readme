@@ -21,3 +21,6 @@ python practices :
 1. use snake_case
 2. start the varible name either with a lower case letter or "_"
 3. better to name the constats in capitol as they defone its static nature , ex PI = 3.14
+
+
+* Tuples are immutable and are similar to lists in python
