@@ -24,3 +24,5 @@ python practices :
 
 
 * Tuples are immutable and are similar to lists in python
+* to make a function you write the keyword def
+* the code inside the function should maintain the default spacing
