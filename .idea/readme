@@ -22,7 +22,17 @@ python practices :
 2. start the varible name either with a lower case letter or "_"
 3. better to name the constats in capitol as they defone its static nature , ex PI = 3.14
 
-
+NOTES :
 * Tuples are immutable and are similar to lists in python
 * to make a function you write the keyword def
 * the code inside the function should maintain the default spacing
+* Dictionaries store key-value pair , and are unOrdered
+* Both lists and tuples are orderd
+* len(list_name) returns the size of list
+* while using except block always use type of error caught so as to not make the block broad but specific
+* pip is used to install external python modules
+* check version of pip using pip --version in terminal
+* to install curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && python3 get-pip.py
+|| replace python3 to python is python 2 && 3 else python3 ||
+   command to install ->      pip install $module_name
+* to uninstall -> pip uninstall $module_name
